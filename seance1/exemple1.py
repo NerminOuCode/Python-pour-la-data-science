@@ -8,4 +8,9 @@ print(nom)
 print(salaire)
 print('l\'employe"',nom,"\"a comme salaire", salaire,
       "et comme age",age,"celibataire:",est_celib, sep=",")
-
+#print("n","ouesleti",sep="" end =';')
+#print("n","ouesleti",sep=";")
+#upstream=branche main
+#push -u origin main : une seule fois , la proch fois juste commande push 
+#git remote -v : url du lorigine ou n met fetsh et pull 
+#

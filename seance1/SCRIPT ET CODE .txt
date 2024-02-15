@@ -1,0 +1,17 @@
+SCRIPT ET CODE 
+SCRIPT BESOIN DUN INTERMEDIAIRE POUR LINTREPRETATION , html python 
+par contre c est un code il execute automatiquement sans intermediaire instalé
+gist status: etat du repos 
+staging area: tarti7a  file eli bsh tab3ethhom ll repos blasa intermediare yo93dou fyha files lin yabaathhom ll repos
+-u= --set-upstream : branche mou3ayna twali upstream mte3ek 
+fetch et pull en local 
+push a lexterieur 
+python -m venv venv_esm doussi : cree un environnement 
+fichier caché: commence par .
+kernel : noyeau d l'environnement
+activer environnement : .\venv_python\scripts\activate
+gitignore: les fichier a ignioer
+juste ecrire le nom du fichier avec /
+git commit -m ".gitignore, seance1/notebook1": 
+commentaire pour le commit 
+git push 
